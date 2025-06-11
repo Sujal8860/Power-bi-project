@@ -24,6 +24,31 @@ This repository contains a Power BI dashboard in PDF format, showcasing the sale
 - Download the PDF file and explore the dashboard for insights into the store's performance.
 - Use the findings to identify trends and patterns in sales, customer behavior, and profitability.
 
+- ## 📊 Shopify Ecommerce Dashboard - Power BI
+
+This Power BI dashboard showcases an in-depth analysis of an e-commerce business built on Shopify. It includes KPIs and visual insights on customer behavior, payment modes, profit & loss by month, product performance, and top states by revenue.
+
+### Key Insights:
+- Total Quantity Sold: 5615
+- AOV (Average Order Value): 80.60
+- Total Revenue: ₹438K+
+- Total Profit: ₹37K
+- Clothing is the top-selling category (62.6% of quantity sold)
+- COD is the most used payment mode (43.7%)
+- Madhya Pradesh contributed the highest profit
+
+### Dashboard Features:
+- Quarter-wise filtering
+- Slicers by state
+- Dark mode theme with interactive charts
+- Donut charts for category analysis
+
+📁 File: `Shopify_Dashboard.pbix`
+
+
+> Designed & Developed by Sujal 
+
+
 ## Tools Used:
 - **Power BI Desktop**: For data visualization and dashboard creation.
 
